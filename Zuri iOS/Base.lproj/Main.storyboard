@@ -24,7 +24,7 @@
                                         <rect key="frame" x="102" y="0.0" width="224" height="420"/>
                                     </imageView>
                                     <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="equalCentering" alignment="center" spacing="6" translatesAutoresizingMaskIntoConstraints="NO" id="zv2-BY-7xG">
-                                        <rect key="frame" x="122.00000000000001" y="428" width="184.33333333333337" height="420"/>
+                                        <rect key="frame" x="122" y="428" width="184.33333333333337" height="420"/>
                                         <subviews>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" text="Zuri Dms" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Hmg-xK-5Nf">
                                                 <rect key="frame" x="31.333333333333336" y="0.0" width="121.33333333333331" height="37"/>
@@ -32,8 +32,14 @@
                                                 <color key="textColor" red="0.33333334329999997" green="0.27795028589999998" blue="0.083922209540000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="By" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="WDC-cg-9dr">
+                                                <rect key="frame" x="79.666666666666657" y="131" width="24.666666666666671" height="26.333333333333343"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="22"/>
+                                                <color key="textColor" red="0.33333334329999997" green="0.27795028589999998" blue="0.083922209540000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                                <nil key="highlightedColor"/>
+                                            </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Team Tolstoy" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="4y5-gX-vEM">
-                                                <rect key="frame" x="16.666666666666657" y="191" width="150.66666666666666" height="32.333333333333343"/>
+                                                <rect key="frame" x="16.666666666666657" y="253.66666666666666" width="150.66666666666666" height="32.333333333333343"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="27"/>
                                                 <color key="textColor" red="0.33333334329999997" green="0.27795028589999998" blue="0.083922209540000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                                 <nil key="highlightedColor"/>
