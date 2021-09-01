@@ -24,7 +24,7 @@
                                         <rect key="frame" x="102" y="0.0" width="224" height="420"/>
                                     </imageView>
                                     <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="equalCentering" alignment="center" spacing="6" translatesAutoresizingMaskIntoConstraints="NO" id="zv2-BY-7xG">
-                                        <rect key="frame" x="122" y="428" width="184.33333333333337" height="420"/>
+                                        <rect key="frame" x="122.00000000000001" y="428" width="184.33333333333337" height="420"/>
                                         <subviews>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" text="Zuri Dms" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Hmg-xK-5Nf">
                                                 <rect key="frame" x="31.333333333333336" y="0.0" width="121.33333333333331" height="37"/>
