@@ -14,6 +14,16 @@ class ViewController: UIViewController {
         sleep(3)
         // Do any additional setup after loading the view.
     }
+    
+    
+//    override func viewDidAppear(_ animated: Bool) {
+//        if LandscapeManager.shared.isFirstLaunch {
+//            performSegue(withIdentifier: "toOnboarding", sender: nil)
+//            LandscapeManager.shared.isFirstLaunch = true
+//        } else {
+//            performSegue(withIdentifier: "toMain", sender: nil)
+//        }
+//    }
 
 
 }
