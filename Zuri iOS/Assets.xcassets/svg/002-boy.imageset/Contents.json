@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "002-boy.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
